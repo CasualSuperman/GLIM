@@ -1,6 +1,6 @@
 include $(GOROOT)/src/Make.inc
 
-TARG=glim
+TARG=glimd
 GOFILES=\
 	glim.go
 
